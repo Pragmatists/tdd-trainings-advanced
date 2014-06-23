@@ -1,0 +1,3 @@
+[submodule "vending-machine-kata"]
+	path = vending-machine-kata
+	url = git@github.com:Pragmatists/vending-machine-kata.git
