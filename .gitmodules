@@ -4,3 +4,6 @@
 [submodule "fizzbuzz-kata"]
 	path = fizzbuzz-kata
 	url = git@github.com:Pragmatists/fizzbuzz-kata.git
+[submodule "train-reservation-kata"]
+	path = train-reservation-kata
+	url = https://github.com/Pragmatists/train-reservation-kata.git
