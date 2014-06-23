@@ -1,3 +1,6 @@
 [submodule "vending-machine-kata"]
 	path = vending-machine-kata
 	url = git@github.com:Pragmatists/vending-machine-kata.git
+[submodule "fizzbuzz-kata"]
+	path = fizzbuzz-kata
+	url = git@github.com:Pragmatists/fizzbuzz-kata.git
