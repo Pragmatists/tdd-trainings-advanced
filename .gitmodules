@@ -18,3 +18,6 @@
 	path = medicine-clash-version-2
 	url = https://github.com/Pragmatists/medicine-clash-kata.git
 	branch = version-2
+[submodule "employee-refactoring-kata"]
+	path = employee-refactoring-kata
+	url = https://github.com/Pragmatists/employee-refactoring-kata.git
