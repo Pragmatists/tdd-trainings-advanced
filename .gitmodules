@@ -10,3 +10,11 @@
 [submodule "refactoring-golf"]
 	path = refactoring-golf
 	url = https://github.com/Pragmatists/Refactoring-Golf.git
+[submodule "medicine-clash-version-1"]
+	path = medicine-clash-version-1
+	url = https://github.com/Pragmatists/medicine-clash-kata.git
+	branch = version-1
+[submodule "medicine-clash-version-2"]
+	path = medicine-clash-version-2
+	url = https://github.com/Pragmatists/medicine-clash-kata.git
+	branch = version-2
