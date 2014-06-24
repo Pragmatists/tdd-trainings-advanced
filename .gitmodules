@@ -21,3 +21,6 @@
 [submodule "employee-refactoring-kata"]
 	path = employee-refactoring-kata
 	url = https://github.com/Pragmatists/employee-refactoring-kata.git
+[submodule "library-wrap-kata"]
+	path = library-wrap-kata
+	url = https://github.com/Pragmatists/library-wrap-kata.git
