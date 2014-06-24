@@ -1,9 +1,12 @@
 [submodule "vending-machine-kata"]
 	path = vending-machine-kata
-	url = git@github.com:Pragmatists/vending-machine-kata.git
+	url = https://github.com/Pragmatists/vending-machine-kata.git
 [submodule "fizzbuzz-kata"]
 	path = fizzbuzz-kata
-	url = git@github.com:Pragmatists/fizzbuzz-kata.git
+	url = https://github.com/Pragmatists/fizzbuzz-kata.git
 [submodule "train-reservation-kata"]
 	path = train-reservation-kata
 	url = https://github.com/Pragmatists/train-reservation-kata.git
+[submodule "refactoring-golf"]
+	path = refactoring-golf
+	url = https://github.com/Pragmatists/Refactoring-Golf.git
