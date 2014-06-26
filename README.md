@@ -8,9 +8,10 @@ git submodule update
 ### Some useful links:
 
 * Books
-  * [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
-  * [Responsible Design for Android](https://leanpub.com/ResponsibleDesignAndroid-Part1)
-  * [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/)
+  * [Growing Object-Oriented Software, Guided by Tests / Steve Freeman, Nat Pryce](http://www.growing-object-oriented-software.com/)
+  * [Test-Driven Development: By Example / Kent Beck](http://www.amazon.com/gp/product/0321146530/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
+  * [Responsible Design for Android / J.B. Rainsberger](https://leanpub.com/ResponsibleDesignAndroid-Part1)
+  * [Refactoring to Patterns /  Joshua Kerievsky](http://industriallogic.com/xp/refactoring/)
     * [Polish language version](helion.pl/ksiazki/refawp.htm)
 * Discussion groups
   * [Growing Object-Oriented Software](https://groups.google.com/forum/#!forum/growing-object-oriented-software)
